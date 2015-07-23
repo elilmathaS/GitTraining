@@ -3,7 +3,7 @@
     <subComponents> 
 		<component name="init" >
 	    		<file>init.xml</file>
-	    		<description>Login template</description>
+	    		<description>Thank You template</description>
 		</component>			
     </subComponents>    
 </component>
